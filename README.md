@@ -45,7 +45,7 @@ git clone git@github.com:aDreamyWind/engineering-han.git ~/.codex/skills/enginee
 使用 $engineering-han 审查当前分支相对 main 的改动。
 ```
 
-Skill 默认允许自动匹配；项目自己的指令和用户当前请求始终优先。
+Skill 默认仅允许显式调用，避免与其他开发流程 Skill 自动重叠；项目自己的指令和用户当前请求始终优先。
 
 ## 项目适配
 
