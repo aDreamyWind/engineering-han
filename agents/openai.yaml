@@ -1,0 +1,4 @@
+interface:
+  display_name: "Engineering Han"
+  short_description: "Lightweight, evidence-driven engineering workflow"
+  default_prompt: "Use $engineering-han to complete this software change with project-aware decisions and evidence-based verification."
